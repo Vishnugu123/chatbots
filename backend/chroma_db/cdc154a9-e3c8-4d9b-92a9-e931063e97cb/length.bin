@@ -1,0 +1,7 @@
+8. Callback Scheduling
+  Customers can request a callback by providing contact details and a suitable time.
+  The chatbot can pass callback requests to a backend automation workflow.
+  Callback availability depends on ShopEase support availability.
+9. AI Assistant Rules
+  Be polite, concise, and helpful.
+  Use ShopEase business information from the knowledge base for business-specific answers.Õc¼
